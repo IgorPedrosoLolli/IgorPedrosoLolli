@@ -1,6 +1,22 @@
-# 💫 About Me:
-   Olá! Sou o Igor, estudante de Análise e Desenvolvimento de Sistemas <br>no terceiro semestre, em busca de estágio em Tecnologia da Informação. <br>   Possuo habilidades sólidas em programação, análise de sistemas e resolução <br>de problemas complexos. Estou pronto para enfrentar desafios, colaborar <br>em equipe e agregar valor ao seu projeto. Seja na resolução de bugs, no desenvolvimento <br>de novas funcionalidades ou na implementação de soluções inovadoras, estou <br>motivado a contribuir para o sucesso da sua empresa. <br>   Agradeço pela consideração e aguardo a oportunidade de discutir como <br>posso agregar valor à sua equipe.
+# 👋 Olá, eu sou Igor Pedroso Lolli!
+💻 Apaixonado por tecnologia e inovação, estou sempre em busca de desafios que me permitam crescer e aprimorar minhas habilidades. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul e tenho forte interesse em Cloud Computing, DevOps, segurança da informação e desenvolvimento backend.
 
+🚀 Minha principal conquista foi minha jornada na Escola da Nuvem, onde aprimorei meus conhecimentos em infraestrutura, computação em nuvem e automação de processos. Além disso, conquistei a certificação Scrum Foundation, o que reforçou minha experiência com metodologias ágeis.
+
+📌 Atualmente, estou trabalhando no meu TCC, desenvolvendo um sistema que utiliza Inteligência Artificial e banco de dados para ajudar estudantes a identificar os assuntos mais recorrentes em provas e otimizar seus estudos.
+
+🔍 O que eu gosto de explorar?
+✔ Cloud Computing (AWS, Azure, GCP)
+✔ Desenvolvimento Backend (C++, JavaScript, Python)
+✔ Banco de Dados (SQL, NoSQL)
+✔ Automação e Infraestrutura como Código
+✔ Metodologias Ágeis (Scrum, Kanban)
+
+📫 Vamos nos conectar?
+✉ Email: igorpedrosololli@gmail.com
+🔗 LinkedIn: linkedin.com/in/igorpedrosololli
+
+Sempre aberto a novas oportunidades e colaborações! 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedroso9023) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Igor Pedroso Lolli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/igor.pedroso_ofc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Igor Pedroso Lolli](https://www.linkedin.com/in/igor-pedroso-lolli-386655273)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@pedroso_2403) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Igor_Pedroso) 
