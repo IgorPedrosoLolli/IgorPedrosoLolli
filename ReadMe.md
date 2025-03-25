@@ -25,7 +25,17 @@ Sempre aberto a novas oportunidades e colaborações! 🚀
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-%230072C6.svg?style=for-the-badge&logo=icloud&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-%230A0A0A.svg?style=for-the-badge&logo=devops&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-%230094FF.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Igor Pedroso Lolli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Igor Pedroso Lolli&theme=dark&hide_border=false)<br/>
